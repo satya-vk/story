@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 yes if you are bad Iam your boss
+=======
+yes if you are bad Iam your bossssssss
+>>>>>>> alien-flot
