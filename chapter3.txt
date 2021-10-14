@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 dont flirt with a lady which is dangerous to you..be safe
+=======
+dont flirt with a lady which is dangerous to you be safe
+>>>>>>> alien-flot
